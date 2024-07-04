@@ -1,0 +1,53 @@
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    
+    color: aliceblue;
+}
+.nav  li{
+    display: inline;
+    justify-content: space-around;
+    margin: 20px;
+  
+}
+li{
+    font-size: 25px;
+}
+.hero1{
+    background-image: url(work2.jpeg);
+    height: 800px;
+    
+    background-size: auto;
+   
+}
+.a1{
+   text-align: center;
+   color: rgb(243, 13, 13);
+   padding-top: 23%;
+   
+   
+}
+button{
+    height: 80px;
+    width: 145px;
+    border-radius: 15px;
+}
+.hero2{
+   text-align: center;
+}
+.hero3{
+    background-image: url(work5.png);
+    height: 800px;
+
+   
+    background-size: auto;
+}
+.home{
+                    <li>php</li>
+                    <li>jva</li>
+                    <li>html</li>
+                    <li>css</li>
+                    <li>hgf</li>
+                    
+}
